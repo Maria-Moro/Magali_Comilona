@@ -26,5 +26,5 @@ Magali Comilona é um jogo divertido onde a personagem Magali deve se mover pela
 * Desvie das bombas para não morrer
 
 
-**Testador do Jogo: Gabriela Ampese- RA: 1138006**
+**Testador do Jogo: Gabriela Ampese - RA: 1138006**
 **Testador do Jogo: Emilly Santos - RA: 1138184**
